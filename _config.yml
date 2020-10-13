@@ -44,11 +44,14 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  articles:
+  audiovisual:
     output: true
-  letters:
+  music:
     output: true
-  speeches:
+  writing:
     output: true
-  tutorials:
+  code:
     output: true
+  about:
+    output: true
+
