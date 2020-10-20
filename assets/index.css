@@ -45,19 +45,19 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   z-index: 2;
   height: 2.75rem;
-  overflow-y: hidden;
+  overflow-y: visible;
 }
 
 .nav-scroller .nav {
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: nowrap;
-  flex-wrap: nowrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
   padding-bottom: 1rem;
   margin-top: -1px;
-  overflow-x: auto;
+  overflow-x: visible;
   text-align: center;
-  white-space: nowrap;
+  white-space: wrap;
   -webkit-overflow-scrolling: touch;
 }
 
