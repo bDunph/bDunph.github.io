@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Ag Fás Ar Ais Arís (VR)"
+title: "Ag Fás Ar Ais Arís(VR)"
 author: Bryan Dunphy
 date: 2022-09-20
-image: ../assets/images/agFasVRStill.jpg
+image: ../assets/images/agFasVRStill2.jpg
 ---
 
 <section class="row m-2">
